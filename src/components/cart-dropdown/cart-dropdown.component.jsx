@@ -1,3 +1,4 @@
+import React from 'react';
 import './cart-dropdown.styles.scss';
 
 import CartItem from '../cart-item/cart-item.component';
